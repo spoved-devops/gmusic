@@ -17,7 +17,7 @@ The following are required:
 Visit [Pushover](https://pushover.net) to create an account.  Free for seven days, a one-off fee of £5 after that.  Your account will have a "User Key" assocaited with it.  Along with this, we need an "Application Key" to distinguish messages from this app from any others you may have.  Simply create a new application to get an app key to use.
 
 ##### gmusicapi, pyaml and python-pushover
-Install gmusicapi, pyaml and python-pushover and pyaml python modules with:
+Install gmusicapi, pyaml and python-pushover python modules with:
 ```bash
 pip3 install gmusicapi pyaml python-pushover
 ```
